@@ -40,4 +40,4 @@ Rest of the details can be find here: https://www.kaggle.com/c/home-credit-defau
 **Work Done**:
 After doing the merging, feature engineering and data cleaning, used Hyperopt package for implementing sequential based hyperparameters tuning method. Details of Sequential based optimization can be find here: https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0.
 Also, used permutation importance method for feature selection as mentioned here:https://academic.oup.com/bioinformatics/article/26/10/1340/193348
-and also get information using the kernel:https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
+and its implementation in python using the kernel:https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
